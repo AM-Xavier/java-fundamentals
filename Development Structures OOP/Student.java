@@ -1,4 +1,3 @@
-package School;
 public class Student {
 
     private String name;

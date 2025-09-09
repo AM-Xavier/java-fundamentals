@@ -1,4 +1,3 @@
-package School;
 public class Course {
 
     private String courseName;

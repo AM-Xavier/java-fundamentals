@@ -1,5 +1,3 @@
-package School;
-
 public class Enrollment {
     private Student student;
     private Course course;
